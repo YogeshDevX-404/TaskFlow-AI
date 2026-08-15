@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow AI",
+  "description": "Enterprise Organization Management & Project Workspace Platform combining GitHub Organizations, Jira, Linear, and ClickUp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
